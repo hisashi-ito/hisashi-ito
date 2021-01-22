@@ -1,7 +1,7 @@
 ####  Hi, I'm Hisashi Itoh
 - I’m software engineer at <a href="https://www.nttr.co.jp/">NTT Resonant</a>.
 - My field of expertise is Natural Language Processing(NLP) and Machine Learning.
-- My background is in the field of Quantum Optics(Theoretical physics), Numerical analysis and Parallel computing(MPI/OpenMP).
+- My background is in the field of Quantum Optics(Theoretical physics), Numerical analysis and Parallel computing (MPI / OpenMP).
 #### Icon
 - My github icon is naoka ueno (A Silent Voice) chan illustrated by <a href=https://twitter.com/Ixy>IXY</a> sensei.
 
