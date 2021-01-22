@@ -11,6 +11,6 @@
     <img src="https://komarev.com/ghpvc/?username=hisashi-ito" alt="hisashi-ito" />
   </a>
   <a href="https://github.com/hisashi-ito">
-    <img height="20" src="https://img.shields.io/github/followers/yutakatay?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/hisashi-ito?label=follow&logo=github&style=flat" />
   </a>
 </p>
