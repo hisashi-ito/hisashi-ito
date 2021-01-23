@@ -3,7 +3,7 @@
 - My field of expertise is Natural Language Processing(NLP) and Machine Learning.
 - My background is in the field of Theoretical physics (Quantum Optics, Solid state physics, Strongly correlated systems, Molecular orbital method), Numerical analysis and Parallel computing (MPI / OpenMP).
 #### Icon
-- My github icon is naoka ueno (A Silent Voice) chan illustrated by <a href=https://twitter.com/Ixy>IXY</a> sensei.
+- My github icon is naoka ueno (A Silent Voice) chan drawn by <a href=https://twitter.com/Ixy>IXY</a> sensei.
 
 
 <p align="right"> 
