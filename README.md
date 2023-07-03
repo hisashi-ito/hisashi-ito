@@ -1,5 +1,5 @@
 ####  Hi, I'm Hisashi Itoh
-- I’m software engineer at <a href="https://www.nttr.co.jp/">NTT Resonant</a>.
+- I’m software engineer at NTT DOCOMO.
 - My field of expertise is Natural Language Processing(NLP) and Machine Learning.
 - My background is in the field of Theoretical physics (Quantum Optics, Solid state physics, Strongly correlated electron systems, Molecular orbital theory), Numerical analysis and Parallel computing (MPI / OpenMP).
 #### Icon
