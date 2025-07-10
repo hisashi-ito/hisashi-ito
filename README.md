@@ -1,5 +1,5 @@
 ####  Hi, I'm Hisashi Itoh
-- I’m software engineer at NTT DOCOMO.
+I’m software engineer at NTT DOCOMO.
 
 ##### Background
 - My field of expertise is Natural Language Processing(NLP) and Machine Learning.
