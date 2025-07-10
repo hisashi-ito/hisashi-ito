@@ -10,6 +10,7 @@
 - Building large-scale foundation language models（LLM) using GPU clusters
 - Creating and organizing training data for large-scale language models
 - Developing structured data transformation products, including OCR and other components used in RAG (Retrieval-Augmented Generation) systems
+- Research and development of reinforcement learning-based AI robotics　🤖
 
 ##### Icon
 - My github icon is naoka ueno (A Silent Voice) chan drawn by <a href=https://twitter.com/Ixy>IXY</a> sensei.
