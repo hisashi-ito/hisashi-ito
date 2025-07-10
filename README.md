@@ -1,8 +1,17 @@
 ####  Hi, I'm Hisashi Itoh
 - I’m software engineer at NTT DOCOMO.
+
+##### Background
 - My field of expertise is Natural Language Processing(NLP) and Machine Learning.
 - My background is in the field of Theoretical physics (Quantum Optics, Solid state physics, Strongly correlated electron systems, Molecular orbital theory), Numerical analysis and Parallel computing (MPI / OpenMP).
-#### Icon
+
+##### Recent Work
+- Developing and researching AI-powered services for consumers
+- Building large-scale foundation language models（LLM) using GPU clusters
+- Creating and organizing training data for large-scale language models
+- Developing structured data transformation products, including OCR and other components used in RAG (Retrieval-Augmented Generation) systems
+
+##### Icon
 - My github icon is naoka ueno (A Silent Voice) chan drawn by <a href=https://twitter.com/Ixy>IXY</a> sensei.
 
 
