@@ -13,7 +13,7 @@ I’m software engineer at NTT DOCOMO.
 - Research and development of reinforcement learning-based AI robotics　🤖
 
 ##### Icon
-- My github icon is naoka ueno (A Silent Voice) chan drawn by <a href=https://twitter.com/Ixy>IXY</a> sensei.
+- My github icon is naoka [ueno](https://koenokatachi-movie.com/character/ueno/) ([A Silent Voice](https://koenokatachi-movie.com/)) chan drawn by <a href=https://twitter.com/Ixy>IXY</a> sensei.
 
 
 <p align="right"> 
