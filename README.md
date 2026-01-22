@@ -12,7 +12,7 @@ I’m software engineer at NTT DOCOMO.
 - Developing structured data transformation products, including OCR and other components used in RAG (Retrieval-Augmented Generation) systems
 - Designing and evolving frameworks for composing, operating, and observing reliable AI systems
 - Performance engineering and optimization of AI training and inference systems at scale
-- Research and development of reinforcement learning-based AI robotics　🤖
+- Working on Vision-Language-Action (VLA) models for embodied AI applications 🤖
 
 ##### Icon
 - My github icon is naoka [ueno](https://koenokatachi-movie.com/character/ueno/) ([A Silent Voice](https://koenokatachi-movie.com/)) chan drawn by <a href=https://twitter.com/Ixy>IXY</a> sensei.
