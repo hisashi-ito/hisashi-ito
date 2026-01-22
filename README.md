@@ -10,6 +10,8 @@ I’m software engineer at NTT DOCOMO.
 - Building large-scale foundation language models（LLM) using GPU clusters
 - Creating and organizing training data for large-scale language models
 - Developing structured data transformation products, including OCR and other components used in RAG (Retrieval-Augmented Generation) systems
+- Designing and evolving frameworks for composing, operating, and observing reliable AI systems
+- Performance engineering and optimization of AI training and inference systems at scale
 - Research and development of reinforcement learning-based AI robotics　🤖
 
 ##### Icon
